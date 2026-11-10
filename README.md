@@ -1,44 +1,36 @@
-# CRM Enhancement – EspoCRM
+# Cynaris Solutions – Full Stack Development Internship
 
-## Project Overview
+**Name:** Prachi Ruikar  
+**Role:** Full Stack Development Intern
 
-This project focuses on enhancing EspoCRM for internship lead management.
+## Project: CRM Enhancement – Interview Management
 
-## Implemented Features
+### Objective
 
-### 1. Custom Lead Fields
+To customize EspoCRM for managing candidate interviews and tracking interview progress.
 
-- Interview Status
-- Interview Date
-- Position
-- Recruiter Name
+### Work Completed
 
-### 2. Email Templates
+- Created a custom Interview entity.
+- Added Interview Status, Interview Date, Position, and Recruiter Name fields.
+- Created sample interview records for Rahul Sharma and Priya Patil.
+- Added Interview entity to the navigation menu.
+- Created an Interview Management Dashboard.
+- Added the My Leads dashlet.
 
-- Interview Invitation
-- Interview Confirmation
-- Interview Rejection
+### Interview Status Pipeline
 
-### 3. Demo Lead
+- Screening
+- Technical Round 1
+- Technical Round 2
+- HR Round
+- Offered
+- Rejected
 
-- Name: Rahul Sharma
-- Position: Java Developer
-- Interview Status: Screening
-
-### 4. Dashboard
-
-- Created Interview Management Dashboard Template.
-- Added My Leads dashlet.
-- Verified that the demo lead is displayed.
-
-## Pending Enhancements
-
-- Workflow/BPM automation.
-- SMTP configuration for sending emails.
-- Advanced dashboard reports and charts.
-
-## Technology Used
+### Tools Used
 
 - EspoCRM
 - Docker
-- Git and GitHub
+- Git
+- GitHub
+- Visual Studio Code
