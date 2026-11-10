@@ -17,6 +17,8 @@ To customize EspoCRM for managing candidate interviews and tracking interview pr
 - Added Interview entity to the navigation menu.
 - Created an Interview Management Dashboard.
 - Added the My Leads dashlet.
+- Updated Rahul Sharma's interview status to Technical Round 1.
+- Updated Priya Patil's interview status to HR Round.
 
 ### Interview Status Pipeline
 
