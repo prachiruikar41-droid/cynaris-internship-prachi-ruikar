@@ -1,0 +1,22 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Frappe / Bench
+sites/
+logs/
+*.log
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
